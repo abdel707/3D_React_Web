@@ -2,6 +2,7 @@
   "name": "dimensions_three",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "server.js",
   "directories": {
     "lib": "lib"
